@@ -1,4 +1,4 @@
-Getting Started
+# Getting Started
 - requirement
 ```
 go : Versi 1.18 atau lebih baru
